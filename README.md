@@ -3,7 +3,7 @@
 
 Eine Streamlit-App zur Visualisierung und Analyse von EKG-Daten. Personen können aus einer Datenbank geladen werden. Pro Person werden EKG-Zeitreihen dargestellt, R-Zacken (Peaks) automatisch erkannt und die durchschnittliche Herzfrequenz berechnet.
 
-![Screenshot der App](screenshot.png)
+![Screenshot der App](screenshot/screenshot.png)
 
 ## Projektstruktur
 
