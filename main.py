@@ -1,6 +1,6 @@
 import streamlit as st
-import read_person_data
-import ekgdata
+import source.read_person_data
+import source.ekgdata
 import matplotlib.pyplot as plt
 from PIL import Image
 from person import Person, get_person_data, get_person_object_by_full_name
