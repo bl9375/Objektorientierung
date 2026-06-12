@@ -6,13 +6,8 @@ authors = [
     {name = "Lukas Behensky",email = "bl9375@mci4me.at"},
     {name = "Christoph Gleinser", email = "gc0453@mci4me.at"},
 ]
-<<<<<<< HEAD
-dependencies = ["streamlit>=1.58.0", "matplotlib>=3.11.0"]
-requires-python = "==3.14.*"
-=======
 dependencies = ["scipy>=1.17.1", "numpy>=2.4.6", "plotly>=6.8.0", "pandas>=3.0.3", "Pillow>=12.2.0", "streamlit>=1.58.0"]
 requires-python = ">=3.11"
->>>>>>> 3f275923160912b8555ce607f24636b5b6657fcb
 readme = "README.md"
 license = {text = "MIT"}
 
